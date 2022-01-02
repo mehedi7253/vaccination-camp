@@ -1,0 +1,105 @@
+#navbarSupportedContent a{
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+}
+.banner{
+    background-image: url("../../images/banner.jpg");
+    height: 500px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /*margin-top: 30px;*/
+}
+.vaccine_banner{
+    background-image: url("../../images/banner.jpg");
+    height: 400px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.bal{
+    height: 200px;
+    width: 100%;
+    border: 1px solid red;
+}
+.campagin_banner{
+    background-image: url("../../images/campaign.png");
+    height: 400px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.banner_section{
+    height: 400px;
+    opacity: 1;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+}
+.consultant{
+    background-image: url("../../images/consultant.jpg");
+    height: 400px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.consultant_booking{
+    background-image: url("../../images/consultant.jpg");
+    height: 200px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.corona_vaccine{
+    background-image: url("../../images/consultant.jpg");
+    height: 200px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.banner_section_consultant{
+    height: 200px;
+    opacity: 1;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+}
+
+.hospital{
+    background-image: url("../../images/hospital.jpg");
+    height: 400px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.hospital_section{
+    height: 400px;
+    opacity: 1;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+}
+.login_page{
+    background-image: url("../../images/login.jpg");
+    height: 550px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.reg_page{
+    background-image: url("../../images/login.jpg");
+    height: auto;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
